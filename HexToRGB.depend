@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1540883441 source:c:\users\harpalpannu\desktop\s\hextorgb\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1540874812 c:\users\harpalpannu\desktop\s\hextorgb\resource.h
+
+1540876651 source:c:\users\harpalpannu\desktop\s\hextorgb\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	"resource.h"
+	<stdlib.h>
+
